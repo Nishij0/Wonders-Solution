@@ -43,7 +43,7 @@ src/
 ## ⚡ Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/wonders-solution.git
+   git clone https://github.com/Nishij0/Wonders-Solution
    cd wonders-solution
    ```
 2. **Install dependencies:**
